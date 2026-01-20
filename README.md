@@ -16,3 +16,4 @@
 ## Стек
 - Kotlin
 - Android SDK
+- XML
